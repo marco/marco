@@ -1,4 +1,8 @@
-### Hi there 👋
+**Hello!** I'm Marco, a college student and software developer.
+
+ - 📌 Recent projects and skills can be found on my [portfolio website](https://marco.how).
+ - 📕 For more information, please see my [résumé](https://marco.how/resume).
+ - 🎒 I am currently studying Computer Science at Harvard.
 
 <!--
 **marco/marco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
