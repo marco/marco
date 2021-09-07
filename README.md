@@ -1,7 +1,7 @@
 **Hello!** I'm Marco, a college student and software developer.
 
  - 📌 Recent projects and skills can be found on my [portfolio website](https://marco.how).
- - 📕 For more information, please see my [résumé](https://marco.how/resume).
+ - 📕 For more information, please see my [résumé](https://marco.how/resume.pdf).
  - 🎒 I am currently studying Computer Science at Harvard.
 
 <!--
