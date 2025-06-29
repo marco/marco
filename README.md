@@ -1,4 +1,4 @@
-**Hello,** I'm Marco, a college student and software developer. Recent projects can be found on my [portfolio website](https://marco.how).
+Hello, I'm Marco, a college student and software developer. Recent projects can be found on my [portfolio website](https://marco.how).
 
 <!--
 **marco/marco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
